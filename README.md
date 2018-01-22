@@ -9,4 +9,4 @@ A systerm for electric simulation.
 
 ```
 
-SimLink's inspiration comes from simulink in matlab, is a powerful power grid planning software. Using matlab as its back-end computing core.
+SimLink's inspiration comes from simulink in matlab, which is a powerful powergrid planning software. Using matlab as its back-end computing core.
