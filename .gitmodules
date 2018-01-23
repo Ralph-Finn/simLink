@@ -1,0 +1,3 @@
+[submodule "GoJS"]
+	path = GoJS
+	url = git@github.com:NorthwoodsSoftware/GoJS.git
